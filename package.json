@@ -1,5 +1,5 @@
 {
-  "name": "resend-nextjs-app-router-example",
+  "name": "dhesend-nextjs-app-router-example",
   "private": true,
   "scripts": {
     "dev": "next dev"
